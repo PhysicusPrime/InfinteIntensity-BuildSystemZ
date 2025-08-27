@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/username/firmware-builder/internal/build"
+	"github.com/PhysicusPrime/InfinteIntensity-BuildSystemZ/internal/build"
 )
 
 func main() {
