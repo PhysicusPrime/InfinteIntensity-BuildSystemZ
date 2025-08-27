@@ -1,3 +1,3 @@
-module github.com/PhysicusPrime/InfinteIntensity-BuildSystemZ
+module github.com/username//mnt/c/Users/hexzhen3x7/GoLang-Env/InfiniteIntensity-BuildSystemZ/BuildSystemZ/infiniteintensity
 
-go 1.22.2
+go 1.23
